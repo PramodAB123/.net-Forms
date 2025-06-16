@@ -1,0 +1,11 @@
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.csproj.AssemblyReference.cache
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.Form1.resources
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.Properties.Resources.resources
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.csproj.GenerateResource.cache
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.csproj.CoreCompileInputs.cache
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\bin\Debug\studentdata.exe.config
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\bin\Debug\studentdata.exe
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\bin\Debug\studentdata.pdb
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.exe
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.pdb
+C:\Users\pramo\OneDrive\Desktop\C#\studentdata\studentdata\obj\Debug\studentdata.exe.config
