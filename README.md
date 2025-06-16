@@ -1,7 +1,7 @@
 # 🚀 **MySQL CRUD Application with C# (.NET)**  
 *A Windows Forms application demonstrating **Create, Read, Update, Delete (CRUD)** operations on a MySQL database.*  
 
-![Demo GIF](https://via.placeholder.com/800x400?text=MySQL+CRUD+App+Demo](https://github.com/PramodAB123/.net-Forms/blob/32674b093cf4bac48a242b14cc8cb215bc0fe760/student.png)) 
+![Demo GIF](https://github.com/PramodAB123/.net-Forms/blob/main/student.png?raw=true) 
 
 ---
 
